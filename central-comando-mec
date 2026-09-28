@@ -1,0 +1,9 @@
+central-comando-mec/
+├── index.html
+├── paginas/
+│   ├── gestao.html
+│   ├── calendario.html
+│   ├── protocolos.html
+│   └── indicadores.html
+└── documentos/
+    └── manual-operacional.pdf
